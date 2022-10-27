@@ -1,0 +1,41 @@
+.art{
+    /* ART */
+position: absolute;
+width: 66.06px;
+height: 21.36px;
+left: 108.92px;
+top: 102.64px;
+/* Сайт 1 Цвета/Осн. цвета/Белый */
+background: #FFFFFF;
+}
+
+.rectangle{
+    /* Rectangle */
+position: absolute;
+width: 121px;
+height: 42px;
+left: 81px;
+top: 92px;
+/* Сайт 1 Цвета/Осн. цвета/Красный */
+background: #BC3324;
+}
+
+.lenni{
+    /* LENNI */
+position: absolute;
+width: 102.16px;
+height: 23px;
+left: 21.91px;
+top: 50px;
+/* Сайт 1 Цвета/Осн. цвета/Белый */
+background: #FFFFFF;
+}
+
+.square{
+    position: absolute;
+    width: 147px;
+    height: 147px;
+    left: 0px;
+    top: 0px;
+    background: #1F1E1E;
+}
