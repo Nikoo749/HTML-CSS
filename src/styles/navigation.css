@@ -1,16 +1,16 @@
 .navigation-container{
-    display: flex;
-flex-direction: row;
-justify-content: space-between;
-align-items: flex-start;
-padding: 0px;
-gap: 50px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 50px;
 
-position: absolute;
-width: 457px;
-height: 25px;
-left: calc(50% - 457px/2 + 0.5px);
-top: 61px;
+  position: absolute;
+  width: 457px;
+  height: 25px;
+  left: calc(50% - 457px/2 + 0.5px);
+  top: 61px;
 }
 
 .blog{
@@ -41,19 +41,19 @@ top: 61px;
 }
 
 .login{
-font-family: 'Open Sans';
-font-style: normal;
-font-weight: 600;
-font-size: 16px;
-line-height: 22px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 22px;
 
-right: 333px;
+    right: 333px;
 /* Сайт 1 Цвета/Осн. цвета/Черный */
-color: #1F1E1E;
+    color: black;
 /* Inside auto layout */
-flex: none;
-order: 0;
-flex-grow: 0;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
 }
 
 .font{
@@ -67,5 +67,5 @@ flex-grow: 0;
     align-items: center;
     text-align: center;
     
-    color: #1F1E1E;
+    color: black;
 }
